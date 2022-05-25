@@ -1,4 +1,10 @@
-
+---
+title: Learining to rebase 
+Author: Zhixiang Yang
+output:
+bookdown::html_document2
+keep_md: true
+---
 
 
 
